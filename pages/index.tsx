@@ -49,7 +49,7 @@ const Home: NextPage = () => {
           {/* Second Column */}
           <div className="lg:col-span-4 col-span-1">
             <div className="lg:sticky relative top-8">
-              <PostWeidght />
+              <PostWeidght slug='' />
               <Categories />
             </div>
           </div>
